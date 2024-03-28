@@ -1,33 +1,35 @@
-# instituciones-prueba-tecnica
+# Prueba tecnica - Engenius
 
-This template should help get you started developing with Vue 3 in Vite.
+Este es un proyecto de prueba técnica para demostrar habilidades en el desarrollo de aplicaciones web fronted.
 
-## Recommended IDE Setup
+este es el link de produccion: https://jaimecalderon16.github.io/instituciones-prueba-tecnica/
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### Requisitos Previos
+* Node.js (versión 12 o superior)
+* npm (viene incluido con Node.js)
 
-## Type Support for `.vue` Imports in TS
+## Installation
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+Primero debe clonar el repositorio
 
-## Customize configuration
+Navega hasta el directorio del proyecto
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```bash
+  cd instituciones-prueba-tecnica
 ```
+Instalar paquetes y dependencias
 
-### Compile and Hot-Reload for Development
+```bash    
+  npm install 
+  ```
 
-```sh
-npm run dev
-```
+## Ejecucion
 
-### Type-Check, Compile and Minify for Production
+Para iniciar la aplicación en modo de desarrollo, ejecuta el siguiente comando:
 
-```sh
-npm run build
-```
+
+```bash    
+  npm run dev
+  ```
+
+Listo 
